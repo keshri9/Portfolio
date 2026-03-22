@@ -32,7 +32,7 @@ export default function FacultyProfile() {
       'Healthcare Analytics',
       'Image Processing',
       'Video Processing',
-      'Cryptography',
+      'Deep Learning', 
       'Wireless Adhoc Networks',
       'Social Network Analysis',
       'Graph Algorithms',
