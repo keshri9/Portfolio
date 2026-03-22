@@ -39,7 +39,7 @@ export default function FacultyProfile() {
   }
 
   const socialLinks = [
-    { name: 'ORCID', url: 'https://orcid.org/', icon: '🔗' },
+    { name: 'ORCID', url: 'https://orcid.org/0000-0002-8268-3233', icon: '🔗' },
     { name: 'Google Scholar', url: 'https://scholar.google.com/', icon: '📚' },
     { name: 'Scopus', url: 'https://www.scopus.com/', icon: '📊' },
     { name: 'Vidwan', url: 'https://vidwan.inflibnet.ac.in/', icon: '🎓' },
