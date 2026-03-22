@@ -1,0 +1,8 @@
+▲ Next.js 16.1.6 (webpack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.2:3000
+
+✓ Starting...
+✓ Ready in 6s
+○ Compiling / ...
+ GET / 200 in 17.8s (compile: 16.5s, render: 1309ms)
