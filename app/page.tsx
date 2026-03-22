@@ -29,13 +29,12 @@ export default function FacultyProfile() {
     landline: '+91-7004582656',
     email: ['divakar.keshri44376@paruluniversity.ac.in'],
     specialization: [
-      'Healthcare Analytics',
+      
       'Image Processing',
       'Video Processing',
       'Deep Learning', 
-      'Wireless Adhoc Networks',
-      'Social Network Analysis',
-      'Graph Algorithms',
+      'Machine Learning',
+      
     ],
   }
 
@@ -56,7 +55,7 @@ export default function FacultyProfile() {
       <div className="max-w-6xl mx-auto bg-white rounded-lg shadow-sm border border-gray-200 ">
 
         <ProfileHeader
-          title="Dr. Diwakar Keshri"
+          title="Prof. Divakar Keshri"
           profileImage="/profile.jpg"
           profileInfo={profileInfo}
           socialLinks={socialLinks}
